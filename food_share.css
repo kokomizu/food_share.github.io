@@ -1,0 +1,28 @@
+header{
+    font-size: 30px;
+
+    background-color: aqua;
+}
+body{
+    background-color: gray;
+}
+
+.tmp1{
+    background-color: #fff;
+    
+}
+.Mars{
+    height: 100px;
+    width: 100px;
+}
+
+.tmp2{
+    background-color: #fff;
+}
+
+
+
+
+footer{
+    background-color: aqua;
+}
